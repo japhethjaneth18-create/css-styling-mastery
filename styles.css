@@ -1,0 +1,36 @@
+* { 
+    box-sizing: border-box; 
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+}
+
+h1 {
+    color: tomato;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+.highlight {
+     background: yellow;
+     }
+
+p { 
+    color: #333;
+ }
+
+#main-title {
+        font-size: 48px; 
+    }
+
+.my-box {
+  padding: 20px;
+  border: 3px solid #8b5cf6;
+  margin: 16px;
+  background: #f0f0ff;
+}
